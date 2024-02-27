@@ -5,6 +5,7 @@ github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XL
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dciabrin/infra-operator/apis v0.0.0-20240503083106-296b0216f835 h1:uY7LNyBKC4oI1rEHGIjq4K3iOQ51b72urMJeFxcKlvc=
 github.com/emicklei/go-restful/v3 v3.11.2 h1:1onLa9DcsMYO9P+CXaL0dStDqQ2EHHXLiz+BtnqkLAU=
 github.com/emicklei/go-restful/v3 v3.11.2/go.mod h1:6n3XBCmQQb25CM2LCACGz8ukIrRry+4bhvbpWn3mrbc=
 github.com/evanphx/json-patch v5.6.0+incompatible h1:jBYDEEiFBPxA0v50tFdvOzQQTCvpL6mnFh5mB2/l16U=
@@ -74,8 +75,6 @@ github.com/onsi/gomega v1.33.0 h1:snPCflnZrpMsy94p4lXVEkHo12lmPnc3vY5XBbreexE=
 github.com/onsi/gomega v1.33.0/go.mod h1:+925n5YtiFsLzzafLUHzVMBpvvRAzrydIBiSIxjX3wY=
 github.com/openshift/api v0.0.0-20230414143018-3367bc7e6ac7 h1:rncLxJBpFGqBztyxCMwNRnMjhhIDOWHJowi6q8G6koI=
 github.com/openshift/api v0.0.0-20230414143018-3367bc7e6ac7/go.mod h1:ctXNyWanKEjGj8sss1KjjHQ3ENKFm33FFnS5BKaIPh4=
-github.com/openstack-k8s-operators/infra-operator/apis v0.3.1-0.20240429104248-25176c735750 h1:buuvAo48wCKOrn1gT1Br3Z2EMh0726m0Flc+1VVhyLU=
-github.com/openstack-k8s-operators/infra-operator/apis v0.3.1-0.20240429104248-25176c735750/go.mod h1:QN2DJpfEc+mbvvfhoCuJ/UhQzvw12Mf+8nS0QX1HGIg=
 github.com/openstack-k8s-operators/lib-common/modules/common v0.3.1-0.20240429052447-09a614506ca6 h1:WLsG3Ko+phW5xZJjncypLWGASoLqKrt05qN9Zxsad6g=
 github.com/openstack-k8s-operators/lib-common/modules/common v0.3.1-0.20240429052447-09a614506ca6/go.mod h1:lYhFzul37AR/6gAhTAA1KKWbOlzB3F/7014lejn883c=
 github.com/openstack-k8s-operators/lib-common/modules/openstack v0.3.1-0.20240429052447-09a614506ca6 h1:/mhzQQ9FF70z00zZD7dpgOoNXvEu9q68oob3oAiJW08=
